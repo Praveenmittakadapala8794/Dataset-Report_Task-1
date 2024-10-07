@@ -36,7 +36,7 @@ The dataset provides a comprehensive collection of restaurant-related informatio
 
 1. Clone the repository:
    ```bash
-   [git clone] (https://github.com/Praveenmittakadapala8794/Dataset-Report_Task-1.git)
+   [git clone](https://github.com/Praveenmittakadapala8794/Dataset-Report_Task-1.git)
 Download or use the dataset provided in the repository.
 
 Run the analysis scripts available in the /scripts folder to explore insights such as popular cuisines, top-rated restaurants, and trends based on city and cuisine types.
